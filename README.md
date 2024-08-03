@@ -4,7 +4,7 @@
 # Samuel Carlos😉
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3AF729&center=true&random=false&width=435&lines=Front+End+;Amazon+Web+Service;Gest%C3%A3o+de+Tr%C3%A1fego)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3AF729&center=true&random=false&width=435&lines=Front+End+;Amazon+Web+Services;Gest%C3%A3o+de+Tr%C3%A1fego)](https://git.io/typing-svg)
 
 me chamo Samuel Carlos, sou apaixonado por tecnologia e Gestão de tráfego e estou em buscando oportunidades na minha carreira para participar de uma empresa em que eu possa dar o meu melhor e crescer. Estou ansioso para contribuir nesse mercado com inovação e minha sede de aprendizado em uma equipe dinâmica.
 
