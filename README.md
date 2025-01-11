@@ -26,7 +26,7 @@ me chamo Samuel Carlos, sou apaixonado por tecnologia e Gestão de tráfego e es
 <code><img width="40px" src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=e62828" title = "Linkedin ads"/></code>
 
 <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
-
-## GitHub Stats
+<!--## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zero0101011&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=00FF00&hide_title=true&hide=star)
-</div>
+</div>-->
+
